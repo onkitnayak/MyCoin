@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="Widget.BottomNavigationView"
+        parent="Widget.Design.BottomNavigationView">
+        <item name="fontFamily">@fonts/metropolis_medium</item>
+        <item name="colorPrimary">@color/white</item>
+    </style>
+
+</resources>
